@@ -18,7 +18,7 @@ class Electronics:
         return "\n\nBrand:" + self.Brand + "\n\tWings :" + str(self.Wings) + "\n\tMoter:" + str(self.Moter) + "\n\tStater:" + str(self.Stater) + "\n\t Gives light:" + str(self.Gives_light)
 
 
-Tubelight = Electronics("Bajaj Tube Light", 1,1,1,1,True)
+Tubelight = Electronics("Bajaaaaaaaaaaaaaaaj Tube Light", 1,1,1,1,True)
 print(Tubelight.catalog())
 
 
